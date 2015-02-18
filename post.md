@@ -52,6 +52,8 @@ Once your post is submitted, you have to choice to continue editing on AirPair, 
 
 This allows us to give you a preview feature without having to change your live copy. Althought not quite semantically correct, you can think of HEAD as your working branch, and the copy stored in AirPair's mongo instance as your prod branch. 
 
+>Before you start editing, if it's been more than a few hours since you forked this post, we highly recommend updating your fork so not to suggest edits on an old version of the post.
+
 
 ## 3. How to Fork a Post
 
