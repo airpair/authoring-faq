@@ -2,7 +2,7 @@
 
 ##1. How to Create a Post
 
-New posts starts in ***Draft*** and are completely private. They have no git repo or history log. If you start something and your idea never goes anywhere, that experience was just for you. You can change everything as much as you like, so enjoy not taking things too seriously until you realize you want to.  
+New posts start in ***Draft*** and are completely private. They have no git repo or history log. If you start something and your idea never goes anywhere, that experience was just for you. You can change everything as much as you like, so enjoy not taking things too seriously until you realize you want to.  
 
 **Once you are logged in:**
 
@@ -33,7 +33,7 @@ New posts starts in ***Draft*** and are completely private. They have no git rep
 ![Create your post](//imgur.com/GNJ41oE.png)
 <br><br>
 - There are tips in the editor to help you create your post in Markdown. 
-- We also suggest [this resource](http://daringfireball.net/projects/markdown/syntax) as a handy reference
+- We also suggest [this resource](http://daringfireball.net/projects/markdown/syntax) as a handy reference.
 - Remember to hit **Save** regularly to save your work.
 <br>
 <br>
@@ -48,7 +48,7 @@ Once submitted, your post will be available for forking here: [https://www.airpa
 
 ### 2. How to Edit your Post
 
-Once your post is submitted, you have to choice to continue editing on AirPair, or clone your repo and use any editor of your choosing. Either way, each time you save your post, including from the editor, it gets committed to master on github. The markdown appearing in the editor comes from HEAD and ***it will not appear on airpair.com until you publish changes from head back to AirPair**. 
+Once your post is submitted, you have the choice to continue editing on AirPair, or clone your repo and use any editor of your choosing. Either way, each time you save your post, including from the editor, it gets committed to master on github. The markdown appearing in the editor comes from HEAD and ***it will not appear on airpair.com until you publish changes from head back to AirPair**. 
 
 This allows us to give you a preview feature without having to change your live copy. Althought not quite semantically correct, you can think of HEAD as your working branch, and the copy stored in AirPair's mongo instance as your prod branch. 
 
@@ -103,5 +103,5 @@ Simply pull and accept changes.
 
 Published posts can take advantage of all the same forking and merging goodness as the review phase, with the exception the author needs an editor with permissions to update the live copy on AirPair. 
 
-Posts will appear at the top of our posts section and RSS feeds and will be fully index by google. Distiguished works will be promoted by AirPair's marketing team for additional exposure.
+Posts will appear at the top of our posts section and RSS feeds and will be fully indexed by google. Distiguished works will be promoted by AirPair's marketing team for additional exposure.
 
