@@ -57,7 +57,9 @@ This allows us to give you a preview feature without having to change your live 
 
 ## 3. How to Fork a Post
 
-####2.1 Visit [posts in review](/posts/in-community-review) and **Select a Post** you'd like to read and review:
+####2.1 Visit [posts in review](/posts/in-community-review) 
+
+**Select a Post** you'd like to read and review:
 
 ![Posts in review](//imgur.com/bOCsn6k.png)
 <br>
@@ -74,7 +76,9 @@ This allows us to give you a preview feature without having to change your live 
 **Authors and readers need to authenticate with repo privileges to facilitate this workflow.**
 <br>
 <br>
-####2.4 Follow the confirmation link to the forked post on GitHub i.e **Social Authoring - An Airpair GitHub Baby**
+####2.4 Follow the confirmation link to the forked post on GitHub 
+
+e.g **Social Authoring - An Airpair GitHub Baby**
 
 ![Confirmation of Fork](//imgur.com/68ohtwh.png)
 
