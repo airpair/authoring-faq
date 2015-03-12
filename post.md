@@ -6,39 +6,118 @@ New posts start in ***Draft*** and are completely private. They have no git repo
 
 **Once you are logged in:**
 
-####1.1 Go to: [https://www.airpair.com/posts](/posts)
+###1.1 Go to: [https://www.airpair.com/posts](/posts)
 
-####1.2 Press **Contribute**
+###1.2 Press **Contribute**
 
-![Contribute](//imgur.com/TlUP5VG.png)
+>![Contribute](//imgur.com/TlUP5VG.png)
 <br>
 <br>
-#### 1.3 Press **Start a Post**
 
-![Start a post](//imgur.com/Y12j69n.png)
+### 1.3 Press **Start a Post**
+
+>![Start a post](//imgur.com/Y12j69n.png)
 <br>
 <br>
-####1.4 Fill in your post details and press **Save**
 
-![Title your Post](//imgur.com/ibBG9YP.png)
+###1.4 Fill in your post details and press **Save**
+
+>![Title your Post](//imgur.com/ibBG9YP.png)
 <br><br>
+
 - Add your personal profile description
 - Connect your social networks
 - Choose a title
 <br>
 <br>
 
-####1.5 Create your post
+###1.5 Create your post
 
-![Create your post](//imgur.com/GNJ41oE.png)
+>![Create your post](//imgur.com/GNJ41oE.png)
 <br><br>
+
 - There are tips in the editor to help you create your post in Markdown. 
 - We also suggest [this resource](http://daringfireball.net/projects/markdown/syntax) as a handy reference.
 - Remember to hit **Save** regularly to save your work.
 <br>
 <br>
 
-####1.6 Press **Submit for Review**
+####1.5.1 Tips for Links and Images
+
+Links are easy! Here's how you link back to [your post
+contributions](/posts/me):
+
+`[your post contributions](/posts/me)`.
+
+Here's how you create an absolute link to the [AirPair posts section with a
+title attribute](https://airpair.com/posts):
+
+`[AirPair posts section with a title
+attribute](https://airpair.com/posts "AirPair Posts")`. 
+
+![AirPair
+Logo](/static/img/css/airpair-author.png) 
+Images are similar to
+links, but with a ! infront: 
+
+
+`![AirPair
+Logo](/static/img/css/airpair-author.png)` 
+
+Please use imgur links in the following format:
+
+`(//imgur.com/link.png)`
+
+####1.5.2 Tips for Headings
+
+*Use ## instead of h2 for headings*
+
+- h1 is already taken by your post's title, so don't use single # h1 headings
+
+*### is good for sub-headings*
+
+Together H1s and H2s will appear automatically in your Table of contents.
+You'll be able to see them later when you click **PREVIEW**.
+
+####1.5.3 Tips for Code blocks
+
+Code blocks are the same as github flavored fenced code blocks:
+
+
+```
+```
+No language specified
+``````
+
+```
+```coffeescript
+#Code blocks with language
+``````
+
+```
+```coffeescript,linenums=true
+#Code blocks with language and linenums
+() ->
+  coolness = true
+``````
+
+```
+```javascript,linenums=true
+//Code blocks for javascript
+function() {
+  var coolness = true
+}
+``````
+
+For HTML, use "markup".
+
+####1.5.4 Tips for Special characters
+
+* Note to use reserved Markdown characters escape them with a backslash
+
+
+
+###1.6 Press **Submit for Review**
 
 When you have written at least 500 words, and you feel it's ready to be reviewed by the AirPair Community, press **Submit for Review**. 
 
@@ -57,53 +136,55 @@ This allows us to give you a preview feature without having to change your live 
 
 ## 3. How to Fork a Post
 
-####2.1 Visit [posts in review](/posts/in-community-review) 
+###2.1 Visit [posts in review](/posts/in-community-review) 
 
 **Select a Post** you'd like to read and review:
 
-![Posts in review](//imgur.com/bOCsn6k.png)
+>![Posts in review](//imgur.com/bOCsn6k.png)
 <br>
 <br>
+
 ####2.2 Press **Fork this Post**
 
-![Post in review](//imgur.com/O89MZnS.png)
+>![Post in review](//imgur.com/O89MZnS.png)
 <br>
 <br>
-####2.3 Press **Connect Github Account & Fork Repository**
 
-![Connect Github and Fork Repository](//imgur.com/teNNigE.png)
+###2.3 Press **Connect Github Account & Fork Repository**
+
+>![Connect Github and Fork Repository](//imgur.com/teNNigE.png)
 
 **Authors and readers need to authenticate with repo privileges to facilitate this workflow.**
 <br>
 <br>
-####2.4 Follow the confirmation link to the forked post on GitHub 
+###2.4 Follow the confirmation link to the forked post on GitHub 
 
 e.g **Social Authoring - An Airpair GitHub Baby**
 
-![Confirmation of Fork](//imgur.com/68ohtwh.png)
+>![Confirmation of Fork](//imgur.com/68ohtwh.png)
 
-####2.5 Visit the **post.md** link
+###2.5 Visit the **post.md** link
 
-![post.md link](//imgur.com/56RY5D9.png)
+>![post.md link](//imgur.com/56RY5D9.png)
 
-####2.6 Make your changes
+###2.6 Make your changes
 
-![Edit post on GitHub](//imgur.com/UAfi76K.png)
+>![Edit post on GitHub](//imgur.com/UAfi76K.png)
 
-####2.7 Describe and commit your changes
+###2.7 Describe and commit your changes
 
-![Commit Changes on GitHub](//imgur.com/PKyXY3D.png)
+>![Commit Changes on GitHub](//imgur.com/PKyXY3D.png)
 
-####2.8 Create Pull Request
+###2.8 Create Pull Request
 
-![Create Pull Request](//imgur.com/PAPySaW.png)
+>![Create Pull Request](//imgur.com/PAPySaW.png)
 
-### 4. How to Accept Edits on your Post
+## 4. How to Accept Edits on your Post
 
 Simply pull and accept changes. 
 
 
-### 5. How to Self Publish your Post
+## 5. How to Self Publish your Post
 
 Published posts can take advantage of all the same forking and merging goodness as the review phase, with the exception the author needs an editor with permissions to update the live copy on AirPair. 
 
