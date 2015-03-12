@@ -144,7 +144,7 @@ This allows us to give you a preview feature without having to change your live 
 <br>
 <br>
 
-####2.2 Press **Fork this Post**
+###2.2 Press **Fork this Post**
 
 >![Post in review](//imgur.com/O89MZnS.png)
 <br>
