@@ -103,7 +103,7 @@ No language specified
 
 ```
 ```javascript,linenums=true
-//Code blocks for javascript
+//Code blocks for javascript with line numbers
 function() {
   var coolness = true
 }
@@ -113,7 +113,7 @@ For HTML, use "markup".
 
 ####1.5.4 Tips for Special characters
 
-* Note to use reserved Markdown characters escape them with a backslash
+* Note to use reserved Markdown characters escape them with a backslash, such as with this asterisk: \*
 
 
 
